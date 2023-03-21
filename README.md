@@ -25,4 +25,4 @@ Creating Lab-view GUI for Industrial Applications
 
 # Complete Flow
 
-( Complete Flow)[https://github.com/dsaakash/Labview-GUI/blob/main/Labview_Integration_with_Labview/Architechure/App2/Front%2BBlockDiagram.png]
+( Complete Flow)[https://github.com/dsaakash/Labview-GUI/blob/main/Labview_Integration_with_Labview/Architechure/App2/Front+BlockDiagram.png?raw=true]
